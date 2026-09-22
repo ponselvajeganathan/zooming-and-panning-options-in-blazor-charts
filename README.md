@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to configure zooming and panning interactions in a Syncfusion Blazor Chart. The implementation showcases how users can focus on selected chart regions, navigate across large datasets, and interact with chart data through zooming and panning operations. The sample also illustrates zoom toolbar customization, zoom mode configuration, and automatic interval calculation for improved readability while exploring chart data.
+This sample demonstrates how to configure zooming and panning interactions in a Syncfusion [Blazor Chart](https://www.syncfusion.com/blazor-components/blazor-charts). The implementation showcases how users can focus on selected chart regions, navigate across large datasets, and interact with chart data through zooming and panning operations. The sample also illustrates zoom toolbar customization, zoom mode configuration, and automatic interval calculation for improved readability while exploring chart data.
 
 ## Key Features
 
